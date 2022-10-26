@@ -1,9 +1,15 @@
-Contact dotnet Backend Api
+## Contact App dotnet Backend Api
 
-Entityframework SQLite
+Entity Framework SQLite
 
-in terminal dotnet run
+## Test Run
 
-then open http://localhost:4000/swagger/index.html 
-
-to test
+To test this project run
+1. Please install .Net Core Sdk version 6.0.402 link below
+2. https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.402-windows-x64-installer
+3. then go to dir /contactApp/contactDotnetApi
+4. in terminal run
+```bash
+  dotnet run
+```
+5. then open http://localhost:4000/swagger/index.html to test
